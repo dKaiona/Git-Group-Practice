@@ -44,10 +44,8 @@ class App extends Component {
               <h5>Add your name below</h5>
               <h4>Signed in:</h4>
               <ul>
-                <li>Spencer Smith</li
+                <li>Spencer Smith</li>
                 <li>Daniel Roberts</li>
-                <li>Jonathan Telford</li>
-                
               </ul>
             </div>
           </div>
