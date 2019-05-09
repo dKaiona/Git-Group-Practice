@@ -45,6 +45,7 @@ class App extends Component {
               <h4>Signed in:</h4>
               <ul>
                 <li>Spencer Smith</li>
+                <li>Jonathan Telford</li>
                 {/* add name here*/}
               </ul>
             </div>
