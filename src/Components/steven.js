@@ -44,13 +44,12 @@ class App extends Component {
               <h5>Add your name below</h5>
               <h4>Signed in:</h4>
               <ul>
-                <li>Bruce Wayne</li>
+                <li>Spencer Smith</li>
                 <li>Daniel Roberts</li>
-                <li>Jonathan Telford</li>
-                <li>Steven Sandholtz</li>
               </ul>
             </div>
           </div>
+          <h1> yasdufyasfdy </h1>
         </header>
       </div>
     );
