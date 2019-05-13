@@ -47,6 +47,7 @@ class App extends Component {
                 <li>Bruce Wayne</li>
                 <li>Daniel Roberts</li>
                 <li>Jonathan Telford</li>
+                <li>Steven Sandholtz</li>
               </ul>
             </div>
           </div>
